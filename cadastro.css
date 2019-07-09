@@ -1,0 +1,32 @@
+body {
+	background-color: #132235;
+	height: 900px;
+}
+
+form {
+  background-color:#444444;
+  width: 35%;
+  height: 450px;
+  text-align: center;
+  font-size: 100%;
+  margin-left: 60%;
+  margin-top: 25%;
+  opacity:80%;
+}
+
+
+.search-txt {
+	 background-color:#ecdac7; 
+     margin-top: 4%;
+     opacity:1;
+       padding-left: 0;
+  padding-right: 90px;  
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+legend {
+	color:white;
+	 font-size: 35px;
+
+}
